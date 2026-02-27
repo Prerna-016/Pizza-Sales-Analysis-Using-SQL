@@ -1,5 +1,3 @@
-
-
 # 🍕 Pizza Sales Analysis Using SQL (MySQL)
 
 ## 📌 Project Overview
